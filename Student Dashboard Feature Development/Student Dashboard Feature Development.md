@@ -225,22 +225,22 @@ While exploring options for integrating communication features into the EduWorld
 ## Concept Mocks
 
 ### Chat feature section
-![My Image](mocks/chat.png)
+![My Image](Mocks/chat.png)
 
 ### Discussion Forum
-![My Image](mocks/forum.png)
+![My Image](Mocks/forum.png)
 
 ### Rooms feature 
-![My Image](mocks/rooms.png)
+![My Image](Mocks/rooms.png)
 
 ### Group Study Feature
-![My Image](mocks/live.png)
+![My Image](Mocks/live.png)
 
 ### Live Doubt Clearing
-![My Image](mocks/doubt.png)
+![My Image](Mocks/doubt.png)
 
 ### Collaborative Tool
-![My Image](mocks/whiteboard.png)
+![My Image](Mocks/whiteboard.png)
 
 ## Risks & Mitigations
 
