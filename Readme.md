@@ -2,8 +2,11 @@
 
 - Name: Ankit Suman
 - Email: ankitsuman07@gmail.com
-- Portfolio: [ankitsuman.in](https://ankitsuman.in/)
-- LinkedIn: [ankit--suman](https://www.linkedin.com/in/ankit-suman-6925011b6/)
+- [Portfolio](https://ankitsuman.in/)
+- [LinkedIn](https://www.linkedin.com/in/ankit-suman-6925011b6/)
+- <a href="Resume/Resume - Ankit Suman.pdf" download>
+    <button>Download Resume</button>
+  </a>
 
 
 ## Profile
