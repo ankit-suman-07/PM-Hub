@@ -7,9 +7,8 @@
 
 
 ## Profile
-```
-Dedicated and results-driven individual with a passion for product management, seeking opportunities as a Product Management Intern or Associate Product Manager. With a solid background in computer science and a proven track record in online tutoring and subject matter expertise, I am equipped with strong analytical, communication, and problem-solving skills. My goal is to leverage these skills to contribute to the development and success of innovative products. Additionally, I am also open to exploring entry-level project manager and consultant roles where I can apply my expertise in market research, competitive analysis, and strategic planning to drive business growth and success.
-```
+
+_Dedicated and results-driven individual with a passion for product management, seeking opportunities as a Product Management Intern or Associate Product Manager. With a solid background in computer science and a proven track record in online tutoring and subject matter expertise, I am equipped with strong analytical, communication, and problem-solving skills. My goal is to leverage these skills to contribute to the development and success of innovative products. Additionally, I am also open to exploring entry-level project manager and consultant roles where I can apply my expertise in market research, competitive analysis, and strategic planning to drive business growth and success._
 
 ## Professional Experience
 
