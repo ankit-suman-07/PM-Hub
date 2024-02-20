@@ -4,7 +4,7 @@
 - Email: ankitsuman07@gmail.com
 - [Portfolio](https://ankitsuman.in/)
 - [LinkedIn](https://www.linkedin.com/in/ankit-suman-6925011b6/)
-- <a href="Resume/Resume - Ankit Suman.pdf" download>
+- <a href="Resume/Resume - Ankit Suman.pdf" download="Resume - Ankit Suman.pdf">
     <button>Download Resume</button>
   </a>
 
