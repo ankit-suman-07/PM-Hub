@@ -15,6 +15,12 @@ _Dedicated and results-driven individual with a passion for product management, 
 
 ## Professional Experience
 
+### Product Development Intern
+***MiM-Essay | Mentr-Me***<br>
+***02/2024 – Present***
+- Delivered more than a 1000 precise and comprehensive written solution for diverse computer science queries from students worldwide, demonstrating a deep understanding of the subject matter and effective communication skills.
+- Maintained a satisfaction rating of above 95%.
+
 ### Online Tutor
 ***CourseHero***<br>
 ***03/2021 – 11/2022***
