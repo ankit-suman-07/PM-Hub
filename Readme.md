@@ -18,8 +18,9 @@ _Dedicated and results-driven individual with a passion for product management, 
 ### Product Development Intern
 ***MiM-Essay | Mentr-Me***<br>
 ***02/2024 – Present***
-- Delivered more than a 1000 precise and comprehensive written solution for diverse computer science queries from students worldwide, demonstrating a deep understanding of the subject matter and effective communication skills.
-- Maintained a satisfaction rating of above 95%.
+- Conducting market research to analyze trends and assess competition through detailed competitor and data analysis.
+- Engaged in product ideation and development, brainstorming innovative ideas for the development of an in-house product.
+- Utilizing various analytics tools to analyze product usage and identify user pain points, driving improvements in product design and functionality.
 
 ### Online Tutor
 ***CourseHero***<br>
@@ -89,7 +90,7 @@ _Dedicated and results-driven individual with a passion for product management, 
         <td> Firebase </td>
     </tr>
     <tr>
-        <td> Python </td>
+        <td> MS-Office </td>
         <td> Java </td>
         <td> Data Structures and Algorithm </td>
         <td> CSS </td>
