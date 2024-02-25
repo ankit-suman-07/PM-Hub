@@ -17,20 +17,20 @@ _Dedicated and results-driven individual with a passion for product management, 
 
 ### Product Development Intern
 ***MiM-Essay | Mentr-Me***<br>
-***02/2024 – Present***
+***February, 2024 – Present***
 - Conducting market research to analyze trends and assess competition through detailed competitor and data analysis.
 - Engaged in product ideation and development, brainstorming innovative ideas for the development of an in-house product.
 - Utilizing various analytics tools to analyze product usage and identify user pain points, driving improvements in product design and functionality.
 
 ### Online Tutor
 ***CourseHero***<br>
-***03/2021 – 11/2022***
+***March, 2021 – November, 2022***
 - Delivered more than a 1000 precise and comprehensive written solution for diverse computer science queries from students worldwide, demonstrating a deep understanding of the subject matter and effective communication skills.
 - Maintained a satisfaction rating of above 95%.
 
 ### Subject Matter Expert
 ***Chegg***<br>
-***02/2021 – 01/2022***
+***February, 2021 – January, 2022***
 - Provided continuous support and expertise as a freelance independent contractor in Computer Science.
 - Demonstrated expertise as a Subject Matter Expert, contributing valuable insights and solutions, following high standards of delivery and quality
 
