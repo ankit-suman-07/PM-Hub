@@ -20,7 +20,9 @@ _Dedicated and results-driven individual with a passion for product management, 
 ***February, 2024 – Present***
 - Conducting market research to analyze trends and assess competition through detailed competitor and data analysis.
 - Engaged in product ideation and development, brainstorming innovative ideas for the development of an in-house product.
+- Involved in UX research and designing based on the requirements gathered from the user's interaction with the product..
 - Utilizing various analytics tools to analyze product usage and identify user pain points, driving improvements in product design and functionality.
+- Involved in formulation of scoring for several in-house mock tests based on GMAT, GRE, etc.
 
 ### Online Tutor
 ***CourseHero***<br>
@@ -78,6 +80,12 @@ _Dedicated and results-driven individual with a passion for product management, 
         <td> Time Management </td>
     </tr>
     <tr>
+        <td> Clarity </td>
+        <td> MixPanel </td>
+        <td> StoryLane </td>
+        <td> MS-Office </td>
+    </tr>
+    <tr>
         <td> Git and Github </td>
         <td> Canva </td>
         <td> Reactjs </td>
@@ -90,7 +98,7 @@ _Dedicated and results-driven individual with a passion for product management, 
         <td> Firebase </td>
     </tr>
     <tr>
-        <td> MS-Office </td>
+        <td> HTML </td>
         <td> Java </td>
         <td> Data Structures and Algorithm </td>
         <td> CSS </td>
