@@ -1,4 +1,4 @@
-# AI Math: Transforming the Way Students Learn Math [Go to Website]
+# AI Math: Transforming the Way Students Learn Math [Go to Website](#https://ai-math.top/)
 
 ## Product Vision Statement:
 
